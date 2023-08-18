@@ -5,13 +5,13 @@
     <div align="center">
         <p align="center">
             <b>Quatuam-Shadow's </b> Intro <br><br>
-            This page is created to serve as better source of knowlegde to the people,
-            who are interested in <br> World of Cyber-Security.
+            This page is created to serve as better source of knowlegde to the people,<br>
+            who are interested in World of Cyber-Security.
             <br><br>
             In this new world were everything being digitised from books ,payment ,communcations ,bank tranfers,storage space and on and on and on .
             A group of intelligent people started to expolit the weak area of this world .
             <br>
-            And I am trying to find those weak area and make them strong before someone finds it and exploits to one's own needs  
+            And I am trying to find those weak area and make them strong <br> before someone finds it and exploits to one's own needs  
             <br><br>
             $${\color{red}So \space now \space there \space are \space not \space the \space intelligent \space people \space anymore \space in \space the \space room \space , They \space have \space to  \space meet \space the \space match}$$
         </p>
