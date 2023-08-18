@@ -1,7 +1,7 @@
 # Quantum-Shadow
 <p align="justify">
     Hello there mate, Welcome to Quantum-Shadow GITHUB Profile.<hr>
-    <img align="left" height="250px" src="https://media1.giphy.com/media/Cfiid6I8YDKqrCxAaY/giphy.gif" alt="GIF" >
+    <img align="left" height="300px" src="https://media1.giphy.com/media/Cfiid6I8YDKqrCxAaY/giphy.gif" alt="GIF" >
     <div align="center">
         <p align="center">
             <b>Quatuam-Shadow's </b> Intro <br><br>
@@ -13,7 +13,7 @@
             <br><br>
             And I am trying to find those weak area and make them strong <br> before someone finds it and exploits to one's own needs  
             <br><br><br>
-            <h2>$${\color{red}So \space now \space there \space are \space not \space the \space intelligent \space people \space anymore \space in \space the \space room \space , They \space have \space to  \space meet \space the \space match}$$<h2>
+            <h3>$${\color{red}So \space now \space there \space are \space not \space the \space intelligent \space people \space anymore \space in \space the \space room \space , They \space have \space to  \space meet \space the \space match}$$</h3>
         </p>
     </div>
     <br><hr>
