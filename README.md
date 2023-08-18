@@ -12,7 +12,7 @@
             A group of intelligent people started to expolit the weak area of this world .
             <br><br>
             And I am trying to find those weak area and make them strong <br> before someone finds it and exploits to one's own needs  
-            <br><br><br>
+            <br><br><br><br>
             <h3>$${\color{red}So \space now \space there \space are \space not \space the \space intelligent \space people \space anymore \space in \space the \space room \space , They \space have \space to  \space meet \space the \space match}$$</h3>
         </p>
     </div>
